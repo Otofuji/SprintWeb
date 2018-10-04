@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 
@@ -27,7 +29,7 @@
           </div>
           <div class="card-action">
             <input type="text">
-            <a href="SecondScreen.jsp" target="_blank">Enviar</a>
+            <a href="~~esse link deve levar a pessoa para a segunda pagina" target="_blank">Tela Certa</a>
           </div>
         </div>
       </div>
